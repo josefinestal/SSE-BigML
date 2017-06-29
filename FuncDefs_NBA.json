@@ -1,0 +1,13 @@
+{
+    "Functions" : [
+        {
+            "Id" : 0,
+            "Name" : "PredictNBA",
+            "Type" : 1,
+            "ReturnType": 0,
+            "Params" : {
+                    "Player" : 0
+                }
+        }
+    ]
+}
